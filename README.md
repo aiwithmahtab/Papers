@@ -37,9 +37,10 @@ A comprehensive review of contextual information in object detection systems, in
 
 ## 📌 Specialized Indoor and Outdoor Scene-Specific Object Detection Models
 **Conference:** ICMV 2023  
-**Citations:** 9+
 
 Proposed specialized object detection models for indoor and outdoor environments to improve detection performance using scene-aware learning.
+
+[![Read Paper](https://img.shields.io/badge/Read-Paper-ff4d6d?style=for-the-badge)](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13072/130720P/Specialized-indoor-and-outdoor-scene-specific-object-detection-models/10.1117/12.3023479.short))
 
 ---
 
