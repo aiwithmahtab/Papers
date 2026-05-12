@@ -40,34 +40,70 @@ A comprehensive review of contextual information in object detection systems, in
 
 Proposed specialized object detection models for indoor and outdoor environments to improve detection performance using scene-aware learning.
 
-[![Read Paper](https://img.shields.io/badge/Read-Paper-ff4d6d?style=for-the-badge)](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13072/130720P/Specialized-indoor-and-outdoor-scene-specific-object-detection-models/10.1117/12.3023479.short))
+[![Read Paper](https://img.shields.io/badge/Read-Paper-ff4d6d?style=for-the-badge)](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13072/130720P/Specialized-indoor-and-outdoor-scene-specific-object-detection-models/10.1117/12.3023479.short)
 
 ---
 
 ## 📌 Video-Audio Multimodal Fall Detection Method
 **Conference:** PRICAI 2024  
-**Citations:** 5+
 
 A multimodal fall detection system combining video and audio information for smart healthcare and surveillance applications.
+
+[![Read Paper](https://img.shields.io/badge/Read-Paper-ff4d6d?style=for-the-badge)](https://link.springer.com/chapter/10.1007/978-981-96-0125-7_6)
 
 ---
 
 ## 📌 Hierarchical Transfer Multi-Task Learning Approach for Scene Classification
 **Conference:** ICPR  
-**Citations:** 4+
 
 A hierarchical transfer learning framework for improving scene classification performance using multi-task learning.
+
+[![Read Paper](https://img.shields.io/badge/Read-Paper-ff4d6d?style=for-the-badge)](https://link.springer.com/chapter/10.1007/978-3-031-78107-0_15)
+
+---
+
+## 📌 Advanced Stock Market Prediction Using Unsupervised Federated Learning Techniques
+**Conference:** International CSI Computer Conference, CSICC  
+
+This paper explores a novel methodology that combines unsupervised learning techniques with federated learning system to enhance stock market prediction models. We present a comprehensive system where local models, trained using unsupervised methods, contribute to a global model through federated aggregation.
+
+[![Read Paper](https://img.shields.io/badge/Read-Paper-ff4d6d?style=for-the-badge)](https://ieeexplore.ieee.org/abstract/document/10967449)
+
+---
+
+## 📌 An Efficient Unsupervised Federated Learning Approach for Anomaly Detection in Heterogeneous IoT Networks 
+
+In this study we propose an efficient unsupervised FL framework that enhances anomaly detection by leveraging shared features from two distinct IoT datasets: one focused on anomaly detection and the other on device identification, while preserving dataset-specific features.
+
+[![Read Paper](https://img.shields.io/badge/Read-Paper-ff4d6d?style=for-the-badge)](https://arxiv.org/abs/2602.24209)
 
 ---
 
 ## 📌 RetinaGate: A Gated Feature Pyramid Network for Improved Object Detection
+**Journal:** CEUR Workshop Proceedings
+
 Introduced a gated feature pyramid mechanism with SE-based attention for enhancing contextual feature representation in object detection.
+
+[![Read Paper](https://img.shields.io/badge/Read-Paper-ff4d6d?style=for-the-badge)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FQVVzesAAAAJ&citation_for_view=FQVVzesAAAAJ:Tyk-4Ss8FVUC)
+
+
+---
+
+## 📌 Object Detection Human Activity Recognition for Improved Patient Mobility and Caregiver Ergonomics
+**Journal:** Journal of WSCG
+
+This study explores the use of machine learning to enhance patient mobility and caregiver ergonomics by optimizing the use of mobility aids. 
+
+[![Read Paper](https://img.shields.io/badge/Read-Paper-ff4d6d?style=for-the-badge)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FQVVzesAAAAJ&citation_for_view=FQVVzesAAAAJ:zYLM7Y9cAGgC)
+
+
+
 
 ---
 
 # 🚀 Current Research Interests
 
-- Scene-Aware Mixture of Experts (SA-MoE)
+- Scene-Aware Mixture of Experts 
 - Context-Aware Object Detection
 - Federated Learning
 - Low-Light Vision Systems
