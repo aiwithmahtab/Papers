@@ -27,11 +27,11 @@ This repository contains a collection of my published research papers and ongoin
 # 📖 Publications
 
 ## 📌 Context in Object Detection: A Systematic Literature Review
-**Journal:** Artificial Intelligence Review (2025)  
-**Citations:** 32+
+**Journal:** Artificial Intelligence Review (2025) 
+
+[![Read Paper](https://img.shields.io/badge/Read-Paper-ff4d6d?style=for-the-badge)](LINK)
 
 A comprehensive review of contextual information in object detection systems, including spatial, temporal, semantic, and scene context approaches.
-[![Read Paper](https://link.springer.com/article/10.1007/s10462-025-11186-x)](LINK)
 
 ---
 
