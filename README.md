@@ -76,7 +76,7 @@ Introduced a gated feature pyramid mechanism with SE-based attention for enhanci
 # 🌐 Links
 
 📚 Google Scholar:  
-https://scholar.google.com/](https://scholar.google.com/citations?user=FQVVzesAAAAJ&hl=en
+https://scholar.google.com/citations?user=FQVVzesAAAAJ&hl=en
 
 💻 GitHub:  
 https://github.com/aiwithmahtab
